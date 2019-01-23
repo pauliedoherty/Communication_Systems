@@ -1,2 +1,3 @@
 # Communication_Systems
-Repository to hold assignments from Communication Systems module
+Repository to hold assignments from EEEN20060 Communication Systems 2012
+
